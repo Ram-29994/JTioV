@@ -1,0 +1,40 @@
+<settings version="2">
+    <setting id="quality" default="true">Best</setting>
+    <setting id="m3ugen">true</setting>
+    <setting id="channelsrc">true</setting>
+    <setting id="enablehost">true</setting>
+    <setting id="usempd" default="true">false</setting>
+    <setting id="mpdnotice" default="true">true</setting>
+    <setting id="number_toggle" default="true">false</setting>
+    <setting id="epgsource" default="true">https://tobalan.github.io/epg.xml.gz</setting>
+    <setting id="Entertainment" default="true">true</setting>
+    <setting id="Lifestyle" default="true">true</setting>
+    <setting id="Infotainment" default="true">true</setting>
+    <setting id="Devotional" default="true">true</setting>
+    <setting id="Jio Darshan" default="true">true</setting>
+    <setting id="News" default="true">true</setting>
+    <setting id="Business News" default="true">true</setting>
+    <setting id="Movies" default="true">true</setting>
+    <setting id="Music" default="true">true</setting>
+    <setting id="Educational" default="true">true</setting>
+    <setting id="Kids" default="true">true</setting>
+    <setting id="Shopping" default="true">true</setting>
+    <setting id="Sports" default="true">true</setting>
+    <setting id="Hindi" default="true">true</setting>
+    <setting id="English" default="true">true</setting>
+    <setting id="Marathi" default="true">true</setting>
+    <setting id="Telugu" default="true">true</setting>
+    <setting id="Kannada" default="true">true</setting>
+    <setting id="Tamil" default="true">true</setting>
+    <setting id="Punjabi" default="true">true</setting>
+    <setting id="Gujarati" default="true">true</setting>
+    <setting id="Bengali" default="true">true</setting>
+    <setting id="Bhojpuri" default="true">true</setting>
+    <setting id="Malayalam" default="true">true</setting>
+    <setting id="Odia" default="true">true</setting>
+    <setting id="Assamese" default="true">true</setting>
+    <setting id="Urdu" default="true">true</setting>
+    <setting id="Nepali" default="true">true</setting>
+    <setting id="Extra" default="true">true</setting>
+    <setting id="mobile">8148387658</setting>
+</settings>
